@@ -45,17 +45,22 @@ p.title{
 .teamimages{
 	padding-left: 240px;
 	padding-right: 275px;
-
-	
 }
 img.first
 	{	
 	width: 238px;
 	padding-top: 96px;
-	}
- 
-   
-    
+	}    
+	img.firstl
+	{	
+	width: 238px;
+	padding-top: 24px;
+	}    
+	img.secondl{
+	padding-top: 48px;
+	width: 238px;
+	
+}
 .teamtitle{
 	padding-bottom: 54px;
   
@@ -86,4 +91,19 @@ img.second{
 	padding-top: 144px;
 	width: 238px;
 	
+}
+
+.end{
+	position:absolute;
+text-align: center;
+width: 100%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: black;
 }
