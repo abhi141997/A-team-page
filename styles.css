@@ -2,7 +2,7 @@
 	padding-top: 109px;
 }
 h1.title {
-	
+	width:50%;
 	height: 47px;
 	font-family: PT Serif;
 	font-style: normal;
@@ -16,7 +16,7 @@ h1.title {
 	color: #000000;
 }
 h2.title{
-
+width: 50%;
 	height: 27px;
 	font-family: Poppins;
 	font-style: normal;
@@ -45,12 +45,20 @@ p.title{
 .teamimages{
 	padding-left: 240px;
 	padding-right: 275px;
+
 	
 }
+img.first
+	{	
+	width: 238px;
+	padding-top: 96px;
+	}
+ 
+   
+    
 .teamtitle{
-	position: absolute;
-	width: 102px;
-	height: 16px;
+	padding-bottom: 54px;
+  
 	font-family: PT Serif;
 	font-style: normal;
 	font-weight: normal;
@@ -58,14 +66,10 @@ p.title{
 	line-height: 16px;
 	/* identical to box height */
 	text-transform: uppercase;
-
 	color: #000000;
-
-	transform: rotate(90deg);}
-	img.first{
-	width: 238px;
-	height: 426.5px;
+	transform: rotate(90deg);
 }
+
 .teamname{
 padding-top: 16px;
 font-family: Poppins;
@@ -75,8 +79,11 @@ font-size: 18px;
 line-height: 27px;
 /* identical to box height */
 color: #000000;
+
 }
 
 img.second{
-
+	padding-top: 144px;
+	width: 238px;
+	
 }
