@@ -1,0 +1,46 @@
+.title{
+	padding-top: 109px;
+}
+h1.title {
+	
+	height: 47px;
+	font-family: PT Serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 47px;
+	/* identical to box height */
+	letter-spacing: -0.045em;
+	padding-left: 243px;
+
+	color: #000000;
+}
+h2.title{
+
+	height: 27px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	/* identical to box height */
+	padding-left:215px;
+	text-transform: uppercase;
+
+	color: #000000;
+
+}
+
+p.title{
+
+	width: 439px;
+	
+	padding-top: 24px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+	padding-left:215px;
+	color: #000000;
+}
